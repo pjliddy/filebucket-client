@@ -30,13 +30,13 @@ http://imgur.com/sQDYgyl
 http://imgur.com/wCyj8U3
 
 ## Project Links
-[FRONTEND-DEPLOY]  https://super-squad-1.github.io/filebucket-client/
+[FRONTEND-DEPLOY]  https://pjliddy.github.io/filebucket-client/
 
-[FRONTEND-REPO]  https://github.com/super-squad-1/filebucket-client
+[FRONTEND-REPO]  https://github.com/pjliddy/filebucket-client
 
-[BACKEND-DEPLOY]  https://safe-retreat-33747.herokuapp.com
+[BACKEND-DEPLOY]  https://file-bucket.herokuapp.com
 
-[BACKEND-REPO]  https://github.com/super-squad-1/filebucket-server
+[BACKEND-REPO]  https://github.com/pjliddy/filebucket-server
 
 ## User Stories
 

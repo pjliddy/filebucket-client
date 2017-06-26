@@ -2,7 +2,7 @@
 
 const config = {
   apiOrigins: {
-    production: 'https://safe-retreat-33747.herokuapp.com',
+    production: 'https://file-bucket.herokuapp.com',
     development: 'http://localhost:4741'
   }
 }
