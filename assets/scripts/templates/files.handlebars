@@ -19,7 +19,7 @@
     {{#each data.files as |file|}}
     <tr data-id="{{file.id}}">
       <td class="col-sm-6 col-xs-8">
-        <span class="file-icon glyphicon glyphicon-file"></span>
+        <span class="file-icon glyphicon glyphicon-file hidden-xs"></span>
         <a href="{{file.url}}" class="btn btn-link file-name" target="_blank">{{file.name}}</a>
       </td>
       <td class="file-date file-date-created col-sm-2 hidden-xs">{{file.createdAt}}</td>
