@@ -1,5 +1,10 @@
 $icon-font-path: '~bootstrap-sass/assets/fonts/bootstrap/';
+// $font-size-base: 16px;
+@import './vars';
+
 @import '~bootstrap-sass/assets/stylesheets/bootstrap';
+
+// $font-size-base: 16px;
 
 // remove whitespace on left and right sides so navbar will run fill width
 body.container-fluid {
