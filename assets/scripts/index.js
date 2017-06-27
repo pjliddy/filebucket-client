@@ -11,6 +11,13 @@ $(() => {
   view.initView()
   authEvents.addHandlers()
   uploadEvents.addHandlers()
+
+  // when client app loads, make a GET request to the API
+  // to wake up heroku while user signs up/in
+  $.ajax({
+    url: config.apiOrigin,
+    method: 'GET'
+  })
 })
 
 // use require with a reference to bundle the file and use it in this file
